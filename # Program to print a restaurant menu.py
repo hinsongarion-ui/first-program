@@ -1,0 +1,15 @@
+# Program to print a restaurant menu
+
+print("=====================================")
+print("         WELCOME TO TASTY BITES       ")
+print("=====================================")
+print("             MENU                    ")
+print("-------------------------------------")
+print("1. Burger.....................$5.99")
+print("2. Fries......................$2.49")
+print("3. Chicken Sandwich...........$6.49")
+print("4. Soda.......................$1.99")
+print("5. Milkshake..................$3.99")
+print("-------------------------------------")
+print("      Thank you for visiting!        ")
+print("=====================================")
